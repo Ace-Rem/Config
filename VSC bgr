@@ -1,0 +1,40 @@
+    "workbench.colorCustomizations": {
+        "sideBar.background": "#00000000",
+        "panel.background": "#00000000",
+        "terminal.background": "#00000000",
+        "editorGroupHeader.tabsBackground": "#00000000"
+    },
+
+    "background.editor": {
+        "useFront": false,
+        "images": ["file:///C:/VSC/ed.png"],
+        "opacity": 0.1,
+        "size": "cover",
+        "position": "center",
+        "style": {
+            "background-position": "center"
+        }
+    },
+
+    "background.sidebar": {
+        "images": ["file:///C:/VSC/sb.png"],
+        "opacity": 0.18,
+        "size": "cover",
+        "position": "center"
+    },
+
+    "background.panel": {
+        "images": ["file:///C:/VSC/pn.png"],
+        "opacity": 0.18,
+        "size": "cover",
+        "position": "center"
+    },
+
+    "background.auxiliarybar": {
+        "images": ["file:///C:/VSC/ab.png"],
+        "opacity": 0.18,
+        "size": "cover",
+        "position": "center",
+        "interval": 0,
+        "random": false
+    }
